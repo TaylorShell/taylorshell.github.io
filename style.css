@@ -13,11 +13,6 @@ footer{
   margin: 0;
   font-size: 40px;
 }
-
-nav{
-  grid-area: nav;
-}
-
 main {
   grid-area: main;
 }
@@ -58,6 +53,9 @@ nav {
   backgorund-color: #eee;
   position: sticky;
   top: 50px;
+}
+nav{
+  grid-area:nav;
 }
 
 a,
