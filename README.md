@@ -1,2 +1,0 @@
-# taylorshell.github.io
- 
