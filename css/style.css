@@ -4,12 +4,16 @@
 
 body {
 font-family: "Helvetica","Oswald","Roboto";
-line height: 1.5;
+
 }
+
 header,
 nav,
 footer{
   background-color:#ccc;
+  padding: 0;
+  margin: 0;
+  font-size: 40px;
 }
 
 nav{
@@ -23,10 +27,12 @@ main {
 footer {
   grid-area: footer;
 }
+.box {
+  background: black;
 p{
   line-height: 1.25;
 }
-
+}
 p{
   color: red;
 }
@@ -36,6 +42,7 @@ h1{
 h2{
   font-family:"Oswald", sans-serif;
   font-weight: 900;
+
 }
 h3 {
   font-family: "Roboto", serif;
@@ -73,7 +80,7 @@ a:active {
 
 a,
 a:link {
-  color: #222;
+  color: #555;
   padding: 4px;
 }
 a:visited {
