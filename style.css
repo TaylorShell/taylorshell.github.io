@@ -41,9 +41,9 @@ section {
   background-color: #bbb
 }
 nav {
-  backgorund-color: #eee;
   position: sticky;
   top: 50px;
+  backgorund-color: #eee;
 }
 nav{
   grid-area:nav;
