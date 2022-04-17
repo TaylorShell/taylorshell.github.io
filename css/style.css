@@ -27,11 +27,14 @@ main {
 footer {
   grid-area: footer;
 }
-.box {
-  background: black;
+.box{
+  background: white;
+  width: 300px;
+  margin: 500px;
+}
 p{
   line-height: 1.25;
-}
+
 }
 p{
   color: red;
