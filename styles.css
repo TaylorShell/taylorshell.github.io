@@ -1,3 +1,27 @@
-p{
-  color: red;
+body {
+font-family: "Helvetica",;
+line height: 1.5;
+}
+
+nav {
+  backgorund-color: #eee;
+  position: sticky;
+  top: 50px;
+}
+
+a,
+a:link {
+  color: #777
+  padding: 4px;
+}
+
+a:hover {
+  color: #fff
+  background-color: #233
+}
+
+a,
+a:link {
+  color: #222;
+  padding: 4px;
 }
