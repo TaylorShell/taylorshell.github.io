@@ -100,7 +100,9 @@ font-weight: 600;
 }
 
 img{
-position:static;
+border:1px solid #222;
+float:right;
+margin-right: 18px;
 }
 h1{
   color:#fff;
