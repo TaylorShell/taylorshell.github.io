@@ -13,10 +13,12 @@ line-height: 1.5,
 }
 main{
   display:grid
-grid-template-columns: 300px 1fr 1fr;
+grid-template-rows: 300px 1fr 1fr;
 grid-column-gap: 50px;
 grid-row-gap: 50px;
 }
+
+
 header,
 nav,
 section {
@@ -29,7 +31,7 @@ body{
   max-width: 960px;
   margin:30px auto;
   display:grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-rows: 1fr 2fr;
   grid-gap: 20px;
   grid-template-areas:
   "Home" "Starting Over"
