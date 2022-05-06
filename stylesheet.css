@@ -38,6 +38,7 @@ nav{
   flex-direction: row;
   flex-wrap: wrap;
   background-color: #fff
+  padding: 40px 100px;
 }
 main{
   display:grid;
