@@ -11,7 +11,12 @@ background-color: rgb(68, 121, 235, 0.5)
 font-size: 40px;
 line-height: 1.5,
 }
-
+main{
+  display:grid
+grid-template-columns: 300px 1fr 1fr;
+grid-column-gap: 50px;
+grid-row-gap: 50px;
+}
 header,
 nav,
 section {
@@ -69,7 +74,9 @@ h2{
   font-weight: 800;
 }
 
-
+header{
+  grid-column:
+}
 figcaption{
   font-size: 14px;
   font-size: italic;
