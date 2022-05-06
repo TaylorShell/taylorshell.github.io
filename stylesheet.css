@@ -13,6 +13,13 @@ font-size: 40px;
 body{
   background-color: rgb(68,121,235,0.5);
 }
+header{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    background-color: #000;
+}
 main{
 display:grid
 grid-template-rows: 300px 1fr 1fr;
@@ -28,11 +35,6 @@ body{
   grid-template-areas:
   "Home" "Starting Over"
   "My Journey" "Not Done Yet";
-}
-
-#StartingOver{
-  align-items: center;
-  background-color: #ddd;
 }
 
 nav{
