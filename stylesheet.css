@@ -11,11 +11,11 @@ line-height: 1.5,
 header,
 nav,
 section {
-  background-color:#ccc  
+  background-color:#ccc
 }
 
 body{
-  max-width: 900px;
+  max-width: 960px;
   margin:30px auto;
   display:grid;
   grid-template-columns: 1fr 2fr;
@@ -47,7 +47,7 @@ header {
 }
 
 nav {
-  grid-area: home;
+  grid-area: nav;  
 }
 
 section {
