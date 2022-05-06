@@ -30,6 +30,11 @@ body{
   "My Journey" "Not Done Yet";
 }
 
+#StartingOver{
+  align-items: center;
+  background-color: #000;
+}
+
 nav{
   padding-left:0;
   grid-area: nav;
@@ -83,7 +88,7 @@ h2 {
 }
 
 h2{
-  border-bottom: 1px solid #222; 
+  border-bottom: 1px solid #222;
 
 }
 nav{
