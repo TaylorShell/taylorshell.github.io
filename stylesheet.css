@@ -13,6 +13,11 @@ font-size: 40px;
 body{
   background-color: rgb(68,121,235,0.5);
 }
+
+#StartingOver{
+  align-items: center;
+  background-color: #ddd;
+  
 main{
 display:grid
 grid-template-rows: 300px 1fr 1fr;
@@ -20,10 +25,6 @@ grid-column-gap: 20px;
 grid-row-gap: 20px;
 }
 
-#StartingOver{
-  align-items: center;
-  background-color: #ddd;
-  
 body{
   font-family:"Oswald";
   font-weight: 900px;
