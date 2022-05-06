@@ -111,7 +111,10 @@ h2{
   font-family: "Roboto", sans-serif;
   font-weight: 800;
   background-color: #000;
-  font-color:#fff;
+}
+
+h2{
+  font-color: #fff;
 }
 figcaption{
   font-size: 14px;
