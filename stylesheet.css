@@ -43,6 +43,9 @@ main{
   grid-gap: 20px;
 }
 
+#MyJourney{
+  grid-column: 1/-1;
+}
 main{
   max-width: 600px;
 }
