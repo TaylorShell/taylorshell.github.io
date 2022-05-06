@@ -20,6 +20,10 @@ grid-column-gap: 20px;
 grid-row-gap: 20px;
 }
 
+#StartingOver{
+  align-items: center;
+  background-color: #ddd;
+  
 body{
   font-family:"Oswald";
   font-weight: 900px;
@@ -28,11 +32,6 @@ body{
   grid-template-areas:
   "Home" "Starting Over"
   "My Journey" "Not Done Yet";
-}
-
-#StartingOver{
-  align-items: center;
-  background-color: #ddd;
 }
 
 nav{
