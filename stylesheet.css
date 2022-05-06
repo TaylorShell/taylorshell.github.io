@@ -5,6 +5,7 @@ body {
 font-family: "Oswald," "Roboto," "Helvetica," sans-serif;
 font-size: 18px;
 color: #222
+background-color: rgb(68, 121, 235, 0.5)
 line-height: 1.5,
 }
 
@@ -47,7 +48,7 @@ header {
 }
 
 nav {
-  grid-area: nav;  
+  grid-area: nav;
 }
 
 section {
