@@ -17,6 +17,7 @@ header{
     align-items: center;
     display: flex;
     flex-direction: row;
+    justify-content:space-around;
     background-color: #000;
 }
 main{
