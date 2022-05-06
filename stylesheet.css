@@ -12,7 +12,7 @@ line-height: 1.5,
 }
 
 body{
-  background-color: rgb(68,121,235,0.5); 
+  background-color: rgb(68,121,235,0.5);
 }
 main{
   display:grid
@@ -36,8 +36,11 @@ body{
   grid-area: nav;
   position: sticky;
   top: 0;
+}
+
+nav{
   display: flex;
-  justify-content: space-between;
+  grid-template-columns: 3fr 3fr;
   grid-row-gap: 50px;
   align-items: center;
   flex-direction: row;
