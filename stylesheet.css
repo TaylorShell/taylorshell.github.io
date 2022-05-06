@@ -19,9 +19,6 @@ grid-template-rows: 300px 1fr 1fr;
 grid-column-gap: 50px;
 grid-row-gap: 50px;
 }
-main{
-  line-height: 2.5,
-}
 
 body{
   font-family:"Oswald";
@@ -91,7 +88,7 @@ nav{
 }
 
 p{
-  line-height: 1.25;
+  line-height: 2.5;
 }
 
 p{
