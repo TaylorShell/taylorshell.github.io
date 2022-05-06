@@ -10,11 +10,11 @@ line-height: 1.5,
 
 a,
 a: link {
-  color:rgb(68,121,235,0.5)
+  color:rgb(87,192,0.5)
 }
 
 a:visited {
-  color: #fff
+  color: #222
 }
 
 a:hover{
@@ -22,7 +22,7 @@ a:hover{
 }
 
 a: acitve {
-  color: rgb(87,192,0.5)
+  color:rgb(68,121,235,0.5)
 }
 
 h1,
