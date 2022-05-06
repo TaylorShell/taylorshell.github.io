@@ -36,7 +36,11 @@ nav{
   grid-area: nav;
   position: sticky;
   top: 0;
-  text-align:justify;
+}
+
+nav ul{
+  background-color: #fff;
+  margin-top: 10px;
 }
 
 nav{
