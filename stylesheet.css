@@ -42,6 +42,7 @@ nav ul{
   background-color: #fff;
   margin-top: 10px;
   width: 100%;
+  background-color: #000;
 }
 nav ul li{
   display: inline-block;
