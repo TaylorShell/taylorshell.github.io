@@ -25,6 +25,10 @@ body{
   "My Journey" "Not Done Yet";
 }
 
+main{
+  max-width: 600px;
+}
+
 header img {
   position: fixed;
   bottom: 10px;
