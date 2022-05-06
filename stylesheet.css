@@ -9,6 +9,7 @@ font-size: 18px;
 background-color: rgb(68, 121, 235, 0.5)
 font-size: 40px;
 line-height: 1.5,
+background-color: rgb(68,121,235,0.5); 
 }
 main{
   display:grid
