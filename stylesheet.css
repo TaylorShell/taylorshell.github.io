@@ -63,6 +63,11 @@ h2 {
   margin-top:0
 }
 
+nav{
+  margin: 0
+  color: #fff
+}
+
 p{
   line-height: 1.25;
 }
@@ -87,14 +92,6 @@ h2{
   font-family: "Roboto", sans-serif;
   font-weight: 800;
   background-color: #000
-}
-
-h2{
-  font-color: #fff
-}
-
-header{
-  grid-column:
 }
 figcaption{
   font-size: 14px;
