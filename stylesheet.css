@@ -27,13 +27,14 @@ body{
   "My Journey" "Not Done Yet";
 }
 
-nav{
+.nav{
   padding-left:0;
   grid-area: nav;
   position: sticky;
   top: 0;
   display: flex;
   justify-content: space-between;
+  grid-row-gap: 50px;
   align-items: center;
   flex-direction: row;
   flex-wrap: wrap;
