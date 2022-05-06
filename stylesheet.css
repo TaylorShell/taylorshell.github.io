@@ -102,6 +102,13 @@ font-weight: 600;
 img{
 float:right;
 margin-right: 18px;
+border: 1px solid #fff;
+}
+
+.alt img{
+  float:left;
+  margin-left: 18px;
+  border: 1px solid: #fff;
 }
 h1{
   color:#fff;
