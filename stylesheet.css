@@ -30,12 +30,17 @@ body{
   font-weight: 900px;
   max-width: 960px;
   margin:30px auto;
-  display:grid;
-  grid-template-rows: 1fr 2fr;
-  grid-gap: 20px;
   grid-template-areas:
   "Home" "Starting Over"
   "My Journey" "Not Done Yet";
+}
+
+main{
+  display:grid;
+  grid-columns: 300px 300px 300px;
+  grid-template-rows: 1fr 1fr 1fr;
+  max-width: 1200px;
+  grid-gap: 20px;
 }
 
 main{
