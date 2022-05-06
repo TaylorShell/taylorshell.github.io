@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Roboto:wght@300&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Oswald:wght@200&family=Roboto:wght@300&display=swap');
 body {
-font-family: "Oswald," "Roboto," "Tahoma," sans-serif;
+font-family: "Oswald," "Roboto," "Montserrat," sans-serif;
 font-size: 18px;
 color: #222
 background-color: rgb(68, 121, 235, 0.5)
@@ -63,7 +63,7 @@ h2{
 }
 
 h3{
-font-family: "Tahoma";
+font-family: "Montserrat";
 font-weight: 600;
 }
 
