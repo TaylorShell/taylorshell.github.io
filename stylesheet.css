@@ -10,18 +10,15 @@ background-color: rgb(68, 121, 235, 0.5)
 font-size: 40px;
 line-height: 1.5,
 }
+
+body{
+  background-color: rgb(68,121,235,0.5); 
+}
 main{
   display:grid
 grid-template-rows: 300px 1fr 1fr;
 grid-column-gap: 50px;
 grid-row-gap: 50px;
-}
-
-
-header,
-nav,
-section {
-  background-color:#ccc
 }
 
 body{
@@ -34,11 +31,19 @@ body{
   "My Journey" "Not Done Yet";
 }
 
-nav{
+.nav{
   padding-left:0;
   grid-area: nav;
   position: sticky;
   top: 0;
+  display: flex;
+  justify-content: space-between;
+  grid-row-gap: 50px;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: #fff
+  padding: 40px 100px;
 }
 main{
   display:grid;
@@ -60,6 +65,11 @@ header img {
 }
 h2 {
   margin-top:0
+}
+
+nav{
+  margin: 0
+  color: #fff
 }
 
 p{
@@ -85,10 +95,8 @@ h1{
 h2{
   font-family: "Roboto", sans-serif;
   font-weight: 800;
-}
-
-header{
-  grid-column:
+  background-color: #000
+  font-color: rgb(255,255,255);
 }
 figcaption{
   font-size: 14px;
