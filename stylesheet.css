@@ -31,8 +31,7 @@ body{
   max-width: 960px;
   margin:30px auto;
   grid-template-areas:
-  "Home" "Starting Over"
-  "My Journey" "Not Done Yet";
+  "Home" "Starting Over" "My Journey" "Not Done Yet";
 }
 
 main{
