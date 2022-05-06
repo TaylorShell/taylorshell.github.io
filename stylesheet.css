@@ -16,8 +16,8 @@ body{
 main{
 display:grid
 grid-template-rows: 300px 1fr 1fr;
-grid-column-gap: 50px;
-grid-row-gap: 50px;
+grid-column-gap: 20px;
+grid-row-gap: 20px;
 }
 
 body{
