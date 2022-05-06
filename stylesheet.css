@@ -79,7 +79,7 @@ header img {
   right: 10px;
 }
 h2 {
-  margin-top:0
+  font-color: rgb(233,232,241);
 }
 
 nav{
@@ -110,7 +110,7 @@ h1{
 h2{
   font-family: "Roboto", sans-serif;
   font-weight: 900;
-  font-color: rgb(233,232,241);
+  font-background: #000;
 }
 
 figcaption{
