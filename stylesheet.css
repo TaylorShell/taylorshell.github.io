@@ -130,7 +130,7 @@ a: link {
 }
 
 a:visited {
-  color: rgb(212,212,212);
+  color: rgb(115,103,206);
 }
 
 a:hover{
@@ -138,5 +138,5 @@ a:hover{
 }
 
 a: acitve {
-  color:rgb(242,173,72,0.5);
+  color:rgb(212,212,212);
 }
