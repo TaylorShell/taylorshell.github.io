@@ -98,6 +98,11 @@ p{
 font-family: "Montserrat";
 font-weight: 600;
 }
+
+img{
+  max-width: 100px;
+  height: auto;
+}
 h1{
   color:#fff;
 }
