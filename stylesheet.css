@@ -27,7 +27,7 @@ body{
   "My Journey" "Not Done Yet";
 }
 
-nav{
+.main-nav{
   padding-left:0;
   grid-area: nav;
   position: sticky;
