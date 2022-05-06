@@ -17,13 +17,6 @@ grid-column-gap: 50px;
 grid-row-gap: 50px;
 }
 
-
-header,
-nav,
-section {
-  background-color:#ccc
-}
-
 body{
   font-family:"Oswald";
   font-weight: 900px;
