@@ -41,12 +41,12 @@ nav{
 nav ul{
   background-color: #fff;
   margin-top: 10px;
+  width: 100%;
 }
 nav ul li{
   display: inline-block;
   list-style:none;
   margin: 20px 30px;
-  width: 100%
 }
 
 
