@@ -7,3 +7,27 @@ font-size: 18px;
 color: #222
 line-height: 1.5,
 }
+
+a,
+a: link {
+  color:rgb(68,121,235,0.5)
+}
+
+a:visited {
+  color: #222
+}
+
+a:hover{
+  color: rgb(233,80,58,0.5)
+}
+
+a: acitve {
+  color: rgb(87,192,0.5)
+}
+
+h1,
+h2,
+h3 {
+  font-family:"Oswald". sans-serif;
+  font-weight: 800;
+}
