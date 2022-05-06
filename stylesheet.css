@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Roboto:wght@300&display=swap');
+
+body {
+font-family: "Oswald," "Roboto," "Helvetica," sans-serif;
+font-size: 18px;
+color: #222
+line-height: 1.5,
+}
