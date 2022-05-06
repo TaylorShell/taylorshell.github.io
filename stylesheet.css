@@ -99,7 +99,9 @@ font-family: "Montserrat";
 font-weight: 600;
 }
 
-
+section{
+background-color: #fff;
+}
 img{
 float:right;
 margin-right: 18px;
