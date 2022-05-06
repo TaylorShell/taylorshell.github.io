@@ -17,6 +17,8 @@ section {
 }
 
 body{
+  font-family:"Oswald";
+  font-weight: 700px;
   max-width: 960px;
   margin:30px auto;
   display:grid;
