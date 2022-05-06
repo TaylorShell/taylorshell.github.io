@@ -11,8 +11,7 @@ line-height: 1.5,
 header,
 nav,
 section {
-  position: relative;
-  margin-bottom: 30px;
+  background-color:#ccc  
 }
 
 body{
